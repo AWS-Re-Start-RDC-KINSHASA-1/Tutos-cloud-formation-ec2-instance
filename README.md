@@ -39,7 +39,7 @@ Cliquez sur le groupe de mise à l'échelle automatique et l'équilibreur de cha
 
 ![image](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/Tutos-cloud-formation-ec2-instance/assets/114914329/ce24ccf9-e5d6-4cb4-afe6-3b1261ad8137)
 
-Effectuez un test en copiant le nom du DNS de l'équilibreur de charge comme indiqué dans l'image. Cela affichera un "hello world" si vous avez configuré votre site dans le code "instance.yml". Voici le résultat.
+Effectuez un test en copiant le nom du DNS de l'équilibreur de charge . Cela affichera un "hello world" si vous avez configuré votre site dans le code "instance.yml". Voici le résultat.
 
 ![image](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/Tutos-cloud-formation-ec2-instance/assets/114914329/f19b76c4-5c78-470d-944f-47de1db44ea9)
 
