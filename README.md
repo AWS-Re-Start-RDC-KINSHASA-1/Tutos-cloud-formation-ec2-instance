@@ -9,4 +9,7 @@ Cliquez sur créer une nouvelle pile;
 
 ![image](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/Tutos-cloud-formation-ec2-instance/assets/114914329/1b3044f8-f176-4cca-a790-2ba9b45370b1)
 
+![image](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/Tutos-cloud-formation-ec2-instance/assets/114914329/e71191b9-c1e4-4302-a2d3-3c917bec581e)
+
+
 
